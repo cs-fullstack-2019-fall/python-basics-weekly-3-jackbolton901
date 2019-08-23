@@ -1,0 +1,11 @@
+First print out the list of options
+establish the balance
+Then establish a variable to hold the user's input
+open a loop that will continue asking for input unless the user chooses the quit option.
+
+for option 1 make a variable to hold the balance and print the value.
+
+for option 2 ask user to input the amount to add. then add it to the original balance and display it.
+
+for option 3 ask user how much to take away from the balance. If the amount is too high display "insufficient funds"
+if it is not too high subtract the number and display the current balance.
