@@ -1,3 +1,8 @@
+#### Really excellent work here Jack! Comments could use a little more detail, and you did have one oversight on the 
+#### PIN challenge, but overall nice work and I can see that you knew what you needed to do to solve it
+#### both in your design notes and the code. Keep rolling!
+
+
 # python-basics-weekly-3
 
 ## Create a bank program.
