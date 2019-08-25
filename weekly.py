@@ -1,6 +1,8 @@
 bal = 500
 accountUser = input("What is your name?  ") #/ Challenge 1
-pinNum = '901'
+### You never asked user for their pin at start so it stays '901' and user just must try to guess.
+### pinNum = '901'
+pinNum = input("Enter your pin number ")
 userChoice = 0
 yourPin = 0
 # opening while loop
